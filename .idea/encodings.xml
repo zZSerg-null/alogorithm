@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/sort/SORT_TEST.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/sort/merge/MergeBottomUp.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/sort/merge/MergeSortMain.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/sort/merge/MergeTopDown.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/sort/other/BubbleSort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/sort/other/CountingSort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/sort/other/InsertionSort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/sort/other/SelectionSort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/sort/other/TreeSetSort.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/sort/quicksort/QuickSortMedian.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/sort/quicksort/QuickSortRegular.java" charset="UTF-8" />
+  </component>
+</project>
